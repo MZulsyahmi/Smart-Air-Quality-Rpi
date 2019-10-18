@@ -1,9 +1,9 @@
 # SMART AIR QUALITY using PYTHON
 
 ## Contents
-[x] Understand the DHT Sensor
-[x] Add LED as a trigger components
-[x] Connect the Raspberry Pi to Blynk Apps
+-[x] Understand the DHT Sensor
+-[x] Add LED as a trigger components
+-[x] Connect the Raspberry Pi to Blynk Apps
 
 ## Raspberry Pi 3 Model B
 ![image](https://user-images.githubusercontent.com/44058064/67084090-e049ca00-f1ce-11e9-832d-a953a2201871.png)
