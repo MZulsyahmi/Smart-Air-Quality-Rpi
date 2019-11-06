@@ -1,4 +1,4 @@
-# SMART AIR QUALITY using **PYTHON**
+# SMART AIR QUALITY using **Raspberry Pi**
 
 ## Contents
 * Understand the DHT Sensor
