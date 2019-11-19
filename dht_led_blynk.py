@@ -1,3 +1,22 @@
+'''
+---------------------KRENOVATOR---------------------
+  Python for DHT22 + LEDs + Blynk Apps
+
+  The codes is for control and monitor the DHT22
+  via Python of Raspberry Pi 3B. The LED were
+  used as a trigger component in case the user
+  set a condition for the temperature and humidity.
+  It is connected to Blynk Apps and can be monitored
+  via smartphone anywhere. Internet of Things is a
+  success
+
+  Get the code at github
+  https://github.com/MZulsyahmi/Smart-Air-Quality-Rpi.git
+  
+  by M.Zulsyahmi @krenovator
+  September 2019
+'''
+
 import RPi.GPIO as gpio
 import Adafruit_DHT
 import time
