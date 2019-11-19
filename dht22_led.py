@@ -1,3 +1,19 @@
+'''
+---------------------KRENOVATOR---------------------
+  Python for DHT22 + LEDs
+
+  The codes is for control and monitor the DHT22
+  via Python of Raspberry Pi 3B. The LED were
+  used as a trigger component in case the user
+  set a condition for the temperature and humidity
+
+  Get the code at github
+  https://github.com/MZulsyahmi/Smart-Air-Quality-Rpi.git
+  
+  by M.Zulsyahmi @krenovator
+  September 2019
+'''
+
 import RPi.GPIO as gpio
 import Adafruit_DHT
 import time
